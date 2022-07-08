@@ -14,7 +14,7 @@ npm run start
 - Abrir carpeta \Backend\BingoJavaSpring con Intellij Idea y correr Bingo.
 - Ejecutar la siguiente url: http://localhost:4200/ en el navegador.
 
-Enlace del vídeo: 
+Enlace del vídeo: https://youtu.be/cF0q4wM22Oo
 
 Realizado por: Gustavo Molina Batista
 gusmol37@gmail.com
